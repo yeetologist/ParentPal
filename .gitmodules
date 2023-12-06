@@ -1,0 +1,9 @@
+[submodule "ML"]
+	path = ML
+	url = https://github.com/yeetologist/ML.git
+[submodule "MD"]
+	path = MD
+	url = https://github.com/yeetologist/MD.git
+[submodule "CC"]
+	path = CC
+	url = https://github.com/yeetologist/CC.git
