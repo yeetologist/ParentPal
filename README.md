@@ -9,3 +9,9 @@ To revolutionize child nutrition and combat global malnutrition issues, our proj
 
 Key Features of ParentPal:
 Nutrition and Growth Pattern: ParentPal employs machine learning models to assess a child's nutrition, considering diet and measurements, and utilizes advanced techniques to analyze growth patterns, identifying potential developmental issues based on the collected data.
+
+## Usage
+How to clone this repository
+```
+ git clone --recurse-submodules https://github.com/yeetologist/ParentPal.git
+```
